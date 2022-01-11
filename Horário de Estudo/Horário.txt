@@ -1,0 +1,6 @@
+Seg - 09h-12h / 14h/18h
+Ter - 09h-12h / 13h/15h
+Qua- 09h-12h / 14h/18h
+Qui- 10h-12h / 18h/21h
+Sex- 09h-12h / 14h/18h
+Sab- 09h-13h
