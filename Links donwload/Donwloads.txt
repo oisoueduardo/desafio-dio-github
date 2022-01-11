@@ -1,0 +1,2 @@
+donwload git : https://git-scm.com/downloads
+donwload vs code : https://code.visualstudio.com/download
